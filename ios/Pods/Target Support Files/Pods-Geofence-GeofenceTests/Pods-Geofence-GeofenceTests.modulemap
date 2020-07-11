@@ -1,0 +1,6 @@
+module Pods_Geofence_GeofenceTests {
+  umbrella header "Pods-Geofence-GeofenceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
