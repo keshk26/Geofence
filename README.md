@@ -1,5 +1,7 @@
 # Geofence
 
+React Native Boilerplate Application
+
 ### Install
 1. `yarn install`
 2. `cd ios` and then `pod install` to install cocoapods. 
